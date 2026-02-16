@@ -7,5 +7,7 @@ public class HelloWorld {
 		
 		System.out.println("Woah, another print statement!");
 		
+		System.out.println("Programmer 2 did this");
+		
 	}
 }
